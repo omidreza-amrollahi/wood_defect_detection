@@ -16,3 +16,7 @@ CSV Content
 - location: Location of data collection
 - contains_label_x (x: 0 - 10): Occurrence of specific label in the image
 - test_input: RGB images of wood boards exclusively from Location 3
+
+## Analysis
+
+The analysis is done in Wood defect detection.ipynb
