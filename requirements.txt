@@ -1,0 +1,8 @@
+pandas == 1.5.2
+matplotlib == 3.5.3
+torch == 1.13.1 -f https://download.pytorch.org/whl/cu117
+tqdm == 4.65.0
+PIL == 9.3.0
+numpy == 1.23.5
+sklearn == 1.2.0
+torchvision == 0.14.1 -f https://download.pytorch.org/whl/cu117
